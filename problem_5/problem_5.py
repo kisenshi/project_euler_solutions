@@ -1,5 +1,5 @@
 """
-PROBLEM 4: Smallest multiple
+PROBLEM 5: Smallest multiple
 It is needed to calculate all the prime factors of all the numbers in the range and choose those that are different, with the biggest exponent
 """
 import math
